@@ -1,0 +1,5 @@
+*** Algorithm for game ***
+
+This game has a simple concept that user has to click on as many number as possible in 60 seconds and if it matches the target number the 
+bubbles, target number get refreshed and the score is incremented by 10. and when the time is over the game stops and it displays the total 
+score of the user
